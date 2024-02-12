@@ -10,6 +10,7 @@ The other big difference from AA is that only one "round" of combat and dice rol
 
 ## Links
 
+- [Codepen: War Room Air/Ground Battle Board Simulator](https://codepen.io/whusterj/full/YzgJdEy/9439d70207e540169361fbbb0e6133e1) - JavaScript implementation of War Room air/ground battle board. Select attacking and defending units and see what might happen.
 - [(2020) Explore JavaScript with Axis & Allies](https://williamhuster.com/explore-js-with-axis-and-allies/) - Blog post I wrote breaking down the JavaScript code I wrote to simulate Axis and Allies battles.
 - [Codepen: Axis and Allies in JavaScript](https://codepen.io/whusterj/pen/VwvjzQv/b4397c0d26fc315dae283d682f7819d8) - Complete JavaScript implementation of Monte Carlo simulation of Axis and Allies battles.
 - [Github: Axis and Allies in C](https://github.com/whusterj/axis-and-allies) - Naive implmeentation of Axis and Allies battle simulator in C. Tinkering with a focus on execution speed.
