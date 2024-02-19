@@ -2,7 +2,7 @@
 
 War Room is a board game by Larry Harris, the designer of Axis and Allies. I see it as at least a spiritual successor to AA, if not a complete overhaul. Like AA, it's a grand strategy game set during World War II. Players control the major Axis and Allied powers and vie for the control of territories. The ultimate goals is to capture the opposing capitals and win the war.
 
-See [main.ipynb](main.ipynb) for the exploration.
+See [2024-02-18-war-room.ipynb](2024-02-18-war-room.ipynb) for the exploration.
 
 I previously did an exploration of battle outcome probabilities in Axis and Allies using JavaScript and C (links below). Battles in War Room are similar in some ways and very different in others. The unit types are mostly identical, but the way dice are rolled and hits are allocated is different. War Room's dice have six different colors distributed across 12 faces. The first four colors: red, green, blue, and yellow correspond to different unit types. The last two colors: black and white, are wild, and may or may not be applied in specific circumstances.
 
